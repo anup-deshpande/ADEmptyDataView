@@ -42,9 +42,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		7D7768D6B82F34BD6087DFF1 /* Pods-ADEmptyDataView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ADEmptyDataView_Tests.release.xcconfig"; path = "Target Support Files/Pods-ADEmptyDataView_Tests/Pods-ADEmptyDataView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8204A769308EC735CD9DCD13 /* Pods_ADEmptyDataView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ADEmptyDataView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		AB3387EA9C5955445E71A1A2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C7F090FB603EBBBF5E62FC44 /* ADEmptyDataView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ADEmptyDataView.podspec; path = ../ADEmptyDataView.podspec; sourceTree = "<group>"; };
-		CF9D2154B238004F13FDF2F0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		AB3387EA9C5955445E71A1A2 /* LICENSE.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = LICENSE.md; path = ../LICENSE.md; sourceTree = "<group>"; };
+		C7F090FB603EBBBF5E62FC44 /* ADEmptyDataView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ADEmptyDataView.podspec; path = ../ADEmptyDataView.podspec; sourceTree = "<group>"; };
+		CF9D2154B238004F13FDF2F0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		D63D20303D03C985558E76CD /* Pods-ADEmptyDataView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ADEmptyDataView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-ADEmptyDataView_Tests/Pods-ADEmptyDataView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FEEE4FEC408D5E209C2F0B4E /* Pods_ADEmptyDataView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ADEmptyDataView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -134,7 +134,7 @@
 			children = (
 				C7F090FB603EBBBF5E62FC44 /* ADEmptyDataView.podspec */,
 				CF9D2154B238004F13FDF2F0 /* README.md */,
-				AB3387EA9C5955445E71A1A2 /* LICENSE */,
+				AB3387EA9C5955445E71A1A2 /* LICENSE.md */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
@@ -147,7 +147,6 @@
 				D63D20303D03C985558E76CD /* Pods-ADEmptyDataView_Tests.debug.xcconfig */,
 				7D7768D6B82F34BD6087DFF1 /* Pods-ADEmptyDataView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
