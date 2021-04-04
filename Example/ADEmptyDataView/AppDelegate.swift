@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  ADEmptyDataView
 //
-//  Created by deshpande.anup24@gmail.com on 04/02/2021.
-//  Copyright (c) 2021 deshpande.anup24@gmail.com. All rights reserved.
-//
+//  Created by Anup Deshpande on 04/02/2021.
 
 import UIKit
 
