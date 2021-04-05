@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ADEmptyDataView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'EmptyDataView enables you to show user-friendly views when table data is empty.'
   s.description      = 'EmptyDataView enables you to show user friendly views when table data is empty.'
   s.homepage         = 'https://github.com/anup-deshpande/ADEmptyDataView.git'
