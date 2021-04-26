@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/AnupDes48776871'
   s.ios.deployment_target = '12.1'
   s.swift_version = ['5.0', '5.1', '5.2']
-  s.source_files = 'ADEmptyDataView/Classes/**/*'
+  s.source_files = 'Sources/ADEmptyDataView/Classes/**/*'
 end
 
